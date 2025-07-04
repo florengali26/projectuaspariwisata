@@ -473,7 +473,7 @@ h6 {
 
 .footer:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 150%);
+  background: color-mix(in srgb, var(--background-color), transparent 50%);
   position: absolute;
   inset: 0;
 }
